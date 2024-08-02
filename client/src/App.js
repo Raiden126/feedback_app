@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+//this is the main component which will render the pages
 import { BrowserRouter, Route } from "react-router-dom";
 import { connect } from "react-redux";
 import * as actions from '../src/actions';
